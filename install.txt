@@ -1,0 +1,6 @@
+- install python 3.6.3 (this project has been tested with this version)
+- install last version from opencv (version 4.1.0)
+- download the project from the https://github.com/franklintiel/motion_detector_3/archive/master.zip
+- install the modules required using the command "pip3 install -r requirements.txt".
+- execute any python file using the command "python3 <filename>_script.py"
+- close the camera pressing the key "q" from the keyboard.
